@@ -12,7 +12,7 @@
    
  - CSS.
 
- - JaaScript
+ - JavaScript
 
 ## Contatos:
  - E-mail: tamiressilvabezerra05@gmail.com.
