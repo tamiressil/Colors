@@ -1,0 +1,11 @@
+/*vamos colocar n botão no centro da tela*/
+/*ele é como uma caica que colocamos especificações dentro o container*/
+/*display: flex; permeite que eu consiga add mais modificaçoes dentro, height: 100vh; ele foi colocado pois nosso container tem que ser tão grande quanto o tamanho da tela para ficar no centre, antes ele não ficava no centro por conta do seu tamanho*/
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
